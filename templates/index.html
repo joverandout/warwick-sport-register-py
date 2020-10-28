@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Warwick Sport Register</h1>
+<p>Having booked onto a warwick sport session please forward your confirmation email to "bearsregister@gmail.com"</p>
+
+<table>
+    {% for key in sessions %}
+        <tr>
+            <td>
+            <h3>{{ key }}</h3>
+            </td>
+            <td>
+            <h3>{{ sessions[key] }}</h3>
+            </td>
+        </tr>
+    {% endfor %}
+</table>
+
+</body>
+</html> 
