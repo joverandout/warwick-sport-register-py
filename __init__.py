@@ -61,7 +61,7 @@ def dictionary_creation():
 ## email and containing the content of the email and the sender
 def get_emails():
     my_email = "bearsregister@gmail.com"
-    my_password = "oay-lut-bears" #fill this in with the email password
+    my_password = "password goes here" #fill this in with the email password
     #ENSURE THE ABOVE PASSWORD IS NOT A PASSWORD YOU USE F0R ANYTHING ELSE.
     #THIS FILE IS NOT SECURE. THE PASSWORD IS NOT STORED AS ANYTHING BUT PLAINTEXT
     #MAKE SURE SOMEONE HAVING ACCESS TO YOUR EMAIL LISTED IS IN NO WAY
