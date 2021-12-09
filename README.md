@@ -9,4 +9,4 @@ This python script should work such that:\
   This allows the script to then comprise a register for a particular session. This will allow checking if participants of a particular session have
   booked without unnecessary hassle of checking individual email receipts
   
-Index.php in the tempaltes file is a webpage that can host and run the python script and output a register so the application can be run from a phone
+Index.php in the templates file is a webpage that can host and run the python script and output a register so the application can be run from a phone
